@@ -1,0 +1,6 @@
+openai
+langchain-google-genai
+pydantic_ai
+pydantic
+websockets
+python-dotenv
